@@ -1,0 +1,20 @@
+O código foi implementado na linguagem Python3. Para executar o programa basta navegar até o diretório do mesmo, pelo terminal e, no terminal,
+digitar a seguinte linha de comando:
+
+
+python3 simplex.py entrada.txt saida.txt
+
+
+Sendo entrada.txt o arquivo de entrada e saida.txt o arquivo com a solução da PL.
+
+
+
+
+
+
+
+
+
+
+
+Autor: Enok Januário da Rocha
